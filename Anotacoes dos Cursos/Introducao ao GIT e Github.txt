@@ -1,1 +1,11 @@
 link do site para baixar o Git Bash: https://git-scm.com/
+
+
+Comandos Essenciais:
+
+git add . (lista as mudanças entre o  conteudo local e no servidor)
+git commit -m "Exemplo de mensagem" (prepara o envio das mudanças feitas)
+git push (envia todas as mudanças para a Main Branch)
+
+
+git pull (caso tenha conflitos na Main Branch)
